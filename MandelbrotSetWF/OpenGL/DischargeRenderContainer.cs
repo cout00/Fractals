@@ -85,7 +85,7 @@ namespace MandelbrotSetWF.OpenGL
 
         public SelectionRectEventArgs()
         {
-            
+             
         }
 
     }
